@@ -103,7 +103,8 @@
   
     .o::after {
       font-size: 175px;
-      top: -60px;
+      bottom: 100px;
+      font-weight: 700;
     }
   }
   
@@ -124,5 +125,6 @@
   
     .o::after {
       font-size: 60px;
+      font-weight: 500;
     }
   }
