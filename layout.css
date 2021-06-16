@@ -80,8 +80,6 @@
     content: '○';
     color: #F2EBD3;
     font-size: 200px;
-    font-weight: 900;
-    top: -100px
   }
   
   .won::after {
