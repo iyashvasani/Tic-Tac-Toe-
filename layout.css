@@ -85,7 +85,15 @@
   .won::after {
     color: #ff0000;
   }
-  
+    
+  .footer-credit {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    margin-top: 24px;
+    margin-bottom: -24px;
+}
+
   @media only screen and (max-width: 1024px) {
     .game-grid {
       margin-top: 25px;
