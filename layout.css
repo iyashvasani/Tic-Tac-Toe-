@@ -91,15 +91,15 @@
     text-align: center;
     color: #fff;
     margin-bottom: end;
-    margin-top: 20px;
+    margin-top: 100px;
   }
 
   .credit-id {  
-    color: white;
+    background-color: white;
   }
 
   .credit-id:hover {  
-    color: red;
+    background-color: red;
   }
 
 
