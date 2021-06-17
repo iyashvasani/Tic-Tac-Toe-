@@ -90,13 +90,14 @@
     font-size: 16px;
     text-align: center;
     color: #fff;
+    margin-top: 32px;
   }
-  .footer-at {
+  .credit-at {
     font-size: 16px;
     color: white;
   }
 
-  .footer-at:hover {
+  .credit-at:hover {
     font-size: 20px;
     color: red;
     text-decoration: underline;
