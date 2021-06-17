@@ -91,15 +91,17 @@
     text-align: center;
     color: #fff;
     margin-bottom: end;
-    margin-top: 48px;
+  }
+  .footer-at {
+    font-size: 16px;
+    color: white;
   }
 
-  .credit-at:hover {  
-    font-weight: bold;
-  }
-
-  .credit-at:hover {  
-    background-color: red;
+  .footer-at:hover {
+    font-size: 20px;
+    color: red;
+    text-decoration: underline;
+    transition: 0.5s;
   }
 
   @media only screen and (max-width: 1024px) {
