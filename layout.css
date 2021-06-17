@@ -90,12 +90,8 @@
     font-size: 16px;
     text-align: center;
     color: #fff;
-    margin-bottom: end;
-    margin-top: 100px;
-  }
-
-  .credit-id {  
-    background-color: white;
+    margin-bottom: 100%;
+    margin-top: 250px;
   }
 
   .credit-id:hover {  
