@@ -82,9 +82,9 @@ const checkGameStatus = () => {
   } else {
     xIsNext = !xIsNext;
     if (xIsNext) {
-      statusDiv.innerHTML = `${xSymbol} is next`;
+      statusDiv.innerHTML = `${xSymbol}'s turn`;
     } else {
-      statusDiv.innerHTML = `<span>${oSymbol} is next</span>`;
+      statusDiv.innerHTML = `<span>${oSymbol}'s turn</span>`;
     }
   }
 };
