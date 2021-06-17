@@ -86,12 +86,11 @@
     color: #ff0000;
   }
     
-  .footer-credit {
+  .credit {
     font-size: 20px;
     text-align: center;
     color: #fff;
-    margin-top: 24px;
-    margin-bottom: -24px;
+    margin-bottom: end;
 }
 
   @media only screen and (max-width: 1024px) {
