@@ -94,10 +94,13 @@
     margin-top: 250px;
   }
 
-  .credit-id:hover {  
-    background-color: red;
+  .credit-at:hover {  
+    font-weight: bold;
   }
 
+  .credit-at:hover {  
+    background-color: red;
+  }
 
   @media only screen and (max-width: 1024px) {
     .game-grid {
