@@ -92,7 +92,16 @@
     color: #fff;
     margin-bottom: end;
     margin-top: 20px;
-}
+  }
+
+  .credit-id {  
+    color: white;
+  }
+
+  .credit-id:hover {  
+    color: red;
+  }
+
 
   @media only screen and (max-width: 1024px) {
     .game-grid {
