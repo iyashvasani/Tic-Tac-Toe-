@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
-  margin: 10;
-  padding: 10;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -13,8 +13,8 @@ body {
 
 .container {
   background: #000000;
-  margin: 20px;
-  padding: 20px;
+  margin: 50px;
+  padding: 50px;
   border-radius: 25px;
 }
 
@@ -106,11 +106,6 @@ body {
 }
 
 @media only screen and (max-width: 1024px) {
-  .container {
-    margin: 25px;
-    padding: 25px;
-  }
-
   .game-grid {
     margin-top: 25px;
     grid-gap: 10px;
@@ -133,8 +128,8 @@ body {
 
 @media only screen and (max-width: 540px) {
   .container {
-    margin: 20px;
-    padding: 20px;
+    margin: 25px;
+    padding: 25px;
   }
 
   .game-cell {
